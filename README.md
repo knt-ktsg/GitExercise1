@@ -1,3 +1,3 @@
-# GitExercise1
+# Github working with Pedro
 # This is a test repositories
 ## This is pedro and kento project
